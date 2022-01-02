@@ -21,13 +21,13 @@
 title: Kinghorn Bird Seed
 email: sales@kinghornbirdseed.co.uk
 description: Information and contact site for Kinghorn Bird Seed.
-baseurl: "kinghornbirdseed.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kinghornbirdseed.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  kinghornbirdseed
 
 # Build settings
-remote_theme: benbalter/retlab
+theme: minima
 plugins:
   - jekyll-feed
 
