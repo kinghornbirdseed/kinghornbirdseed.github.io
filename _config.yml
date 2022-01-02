@@ -27,7 +27,7 @@ twitter_username: jekyllrb
 github_username:  kinghornbirdseed
 
 # Build settings
-theme: minima
+theme: benbalter/retlab
 plugins:
   - jekyll-feed
 
