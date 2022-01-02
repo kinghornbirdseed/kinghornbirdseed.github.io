@@ -16,3 +16,4 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+<script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
