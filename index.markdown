@@ -6,7 +6,7 @@ layout: home
 ---
 <!-- modify this form HTML and place wherever you want your form -->
 # Pricing
-Mixed Seed - 1.50/kg (75p/500g bag)
+Mixed Seed - 1.50/kg (75p/500g bag)<br>
 Peanuts - 3.20/kg (£1.60/500g bag)
 
 
