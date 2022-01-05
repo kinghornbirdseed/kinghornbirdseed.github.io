@@ -33,6 +33,7 @@ To order, please fill in your details below.
   <input type="number" id="quantityp" name="quantityp" min="1" max="10" step="0.5">
   <label for="quantityp">Amount of Peanuts (kg)</label>
   <br>
-  <!-- your other form fields go here -->
   <button type="submit">Send</button>
+  
+  I will email back with details of payment and delivery(check your spam folder!)
 </form>
