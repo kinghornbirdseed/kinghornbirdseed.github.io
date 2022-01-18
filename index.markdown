@@ -21,7 +21,7 @@ To order, please fill in your details below.
   <br>
   <label for="name">Your name:&nbsp;&nbsp;&nbsp;</label>
   <input type="text" id="name" name="name" required><br>
-  <label for="address">Your address:</label>
+  <label for="address">Delivery address:</label>
   <textarea id="address" name="address" rows="5" cols="50" required>
   </textarea><br><br>
   Please tick the boxes to indicate the type of seed you desire. <br>
