@@ -44,4 +44,5 @@ To order, please fill in your details below.
   <button type="submit">Send</button>
   <br>
   I will email back with details of payment and delivery(check your spam folder!)
+  NOTE: For now, delivery is on Saturdays only. Apologies for any inconvenice caused!
 </form>
