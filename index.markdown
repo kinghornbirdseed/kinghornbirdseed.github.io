@@ -13,7 +13,10 @@ Peanuts - 3.20/kg (£1.60/500g bag)
 To order, please fill in your details below.
 
 <form
-  action="https://submit-form.com/NguO81La">
+  action="https://formspree.io/f/mnqwnowg"
+  method="POST"
+>
+
   <label for="email">Your email:&nbsp;&nbsp;&nbsp;</label>
   <input type="email" name="_replyto" required>
   <br>
@@ -42,5 +45,6 @@ To order, please fill in your details below.
   <button type="submit">Send</button>
   <br>
   I will email back with details of payment and delivery(check your spam folder!)
+
   NOTE: For now, delivery is on Saturdays only. Apologies for any inconvenice caused!
 </form>
