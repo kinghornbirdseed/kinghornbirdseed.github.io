@@ -13,7 +13,7 @@ Peanuts - 3.20/kg (£1.60/500g bag)
 To order, please fill in your details below.
 
 <form
-  action="https://formspree.io/f/mnqwnowg"
+  action="https://submit-form.com/NguO81La"
   method="POST"
 >
   <label for="email">Your email:&nbsp;&nbsp;&nbsp;</label>
