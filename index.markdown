@@ -13,9 +13,7 @@ Peanuts - 3.20/kg (£1.60/500g bag)
 To order, please fill in your details below.
 
 <form
-  action="https://submit-form.com/NguO81La"
-  method="POST"
->
+  action="https://submit-form.com/NguO81La">
   <label for="email">Your email:&nbsp;&nbsp;&nbsp;</label>
   <input type="email" name="_replyto" required>
   <br>
@@ -31,7 +29,7 @@ To order, please fill in your details below.
   <label for="mixed">Mixed Seed</label>
    <input type="number" id="quantitym" name="quantitym" min="1" max="10" step="0.5">
   <label for="quantitym">Amount of Mixed Seed (kg)</label>
- 
+
   <br>
   <input type="checkbox" id="peanuts" name="peanuts" value="Peanuts">
   <label for="peanuts">Peanuts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
