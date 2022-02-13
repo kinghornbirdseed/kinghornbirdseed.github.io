@@ -16,12 +16,13 @@ To order, please fill in your details below.
   action="https://formspree.io/f/mnqwnowg"
   method="POST"
 >
+
   <label for="email">Your email:&nbsp;&nbsp;&nbsp;</label>
   <input type="email" name="_replyto" required>
   <br>
   <label for="name">Your name:&nbsp;&nbsp;&nbsp;</label>
   <input type="text" id="name" name="name" required><br>
-  <label for="address">Your address:</label>
+  <label for="address">Delivery address:</label>
   <textarea id="address" name="address" rows="5" cols="50" required>
   </textarea><br><br>
   Please tick the boxes to indicate the type of seed you desire. <br>
@@ -31,7 +32,7 @@ To order, please fill in your details below.
   <label for="mixed">Mixed Seed</label>
    <input type="number" id="quantitym" name="quantitym" min="1" max="10" step="0.5">
   <label for="quantitym">Amount of Mixed Seed (kg)</label>
- 
+
   <br>
   <input type="checkbox" id="peanuts" name="peanuts" value="Peanuts">
   <label for="peanuts">Peanuts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
@@ -44,4 +45,6 @@ To order, please fill in your details below.
   <button type="submit">Send</button>
   <br>
   I will email back with details of payment and delivery(check your spam folder!)
+
+  NOTE: For now, delivery is on Saturdays only. Apologies for any inconvenice caused!
 </form>
