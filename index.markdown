@@ -17,10 +17,10 @@ To order, please fill in your details below.
   method="POST"
 >
 
-  <label for="email">Your email:&nbsp;&nbsp;&nbsp;</label>
+  <label for="email">Contact email:&nbsp;&nbsp;&nbsp;&nbsp;</label>
   <input type="email" name="_replyto" required>
   <br>
-  <label for="name">Your name:&nbsp;&nbsp;&nbsp;</label>
+  <label for="name">Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
   <input type="text" id="name" name="name" required><br>
   <label for="address">Delivery address:</label>
   <textarea id="address" name="address" rows="5" cols="50" required>
