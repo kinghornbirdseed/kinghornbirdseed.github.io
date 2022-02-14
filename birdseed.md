@@ -110,7 +110,6 @@ title: Bird Seed
   margin-right: 3%;
 }
 </style>
-# Bird Seed Order Form
 ## Pricing
 Mixed Seed - 1.50/kg
 
