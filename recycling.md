@@ -128,3 +128,6 @@ Please clean all bottles and jars before leaving for collection. Please put your
 <input type="number" id="quantity" name="quantity" min="1" max="200" value="1">
   <input type="submit" value="Submit Collection Request">
 </form>
+
+I will email back with details of collection (check your spam folder!).
+Thank you for you support.
