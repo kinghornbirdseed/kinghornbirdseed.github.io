@@ -1,5 +1,5 @@
 ---
-title: Glass Recycling Collection Request Form
+title: Recycling
 ---
 
 <style>/* reset */
@@ -110,6 +110,7 @@ title: Glass Recycling Collection Request Form
   margin-right: 3%;
 }
 </style>
+# Glass Recycling Collection Request Form
 
 Please clean all bottles and jars before leaving for collection. Please put your recycling in 'bag for life' size carrier bags and leave on your doorstep at the collection time. You can leave your donation underneath the bag on collection day or if you prefer you can pay through an online payment link (Stripe). The suggested donation per bag is £2.50. Please enter how many bags you will leave out in the box provided below.
 
