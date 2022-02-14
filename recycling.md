@@ -1,9 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+title: Glass Recycling Collection Request Form
 ---
-<!-- modify this form HTML and place wherever you want your form -->
+
 <style>/* reset */
 #fs-frm input,
 #fs-frm select,
@@ -113,6 +111,8 @@ layout: home
 }
 </style>
 
+Please clean all bottles and jars before leaving for collection. Please put your recycling in 'bag for life' size carrier bags and leave on your doorstep at the collection time. You can leave your donation underneath the bag on collection day or if you prefer you can pay through an online payment link (Stripe). The suggested donation per bag is £2.50. Please enter how many bags you will leave out in the box provided below.
+
 <form id="fs-frm" name="recycling" action="https://formspree.io/f/{form_id}" method="post">
 
     <label for="Name">Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
@@ -126,49 +126,4 @@ layout: home
 <label for="quantity">Number of Bags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
 <input type="number" id="quantity" name="quantity" min="1" max="200" value="1">
   <input type="submit" value="Submit Collection Request">
-</form>
-# Pricing
-Mixed Seed - 1.50/kg (75p/500g bag)
-Peanuts - 3.20/kg (£1.60/500g bag)
-
-
-# Order Form
-To order, please fill in your details below.
-
-<form
-  action="https://formspree.io/f/mnqwnowg"
-  method="POST"
-id="fs-frm"
->
-
-  <label for="email">Contact email:&nbsp;&nbsp;&nbsp;&nbsp;</label>
-  <input type="email" name="_replyto" required>
-
-  <label for="name">Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
-  <input type="text" id="name" name="name" required>
-  <label for="address">Delivery address:</label>
-  <textarea id="address" name="address" rows="5" cols="50" required>
-  </textarea>
-  Please tick the boxes to indicate the type of seed you desire.
-  Fill in the boxes on the right to indicate the amount of each type of seed in kilograms.
-
-  <input type="checkbox" id="mixed" name="mixed" value="Mixed Seed">
-  <label for="mixed">Mixed Seed</label>
-   <input type="number" id="quantitym" name="quantitym" min="1" max="10" step="0.5">
-  <label for="quantitym">Amount of Mixed Seed (kg)</label>
-
-
-  <input type="checkbox" id="peanuts" name="peanuts" value="Peanuts">
-  <label for="peanuts">Peanuts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
-
-  <input type="number" id="quantityp" name="quantityp" min="1" max="10" step="0.5">
-  <label for="quantityp">Amount of Peanuts (kg)</label>
-
-  <label for="comments">Special comments: </label>
-  <textarea id="comments" name="comments" rows="5" cols="50"></textarea>
-  <button type="submit">Send</button>
-
-  I will email back with details of payment and delivery(check your spam folder!)
-
-  NOTE: For now, delivery is on Saturdays only. Apologies for any inconvenice caused!
 </form>
