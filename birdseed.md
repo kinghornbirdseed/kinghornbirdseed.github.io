@@ -141,9 +141,8 @@ id="fs-frm"
 
   <label for="comments">Special comments: </label>
   <textarea id="comments" name="comments" rows="5" cols="50"></textarea>
-  <button type="submit">Send</button>
+  <input type="submit" value="Order">
 
   I will email back with details of payment and delivery(check your spam folder!)
 
-  NOTE: For now, delivery is on Saturdays only. Apologies for any inconvenice caused!
 </form>
