@@ -123,12 +123,12 @@ To order, please fill in your details below.
 id="fs-frm"
 >
 
-  <label for="email">Contact email:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+  <label for="email">Contact email</label>
   <input type="email" name="_replyto" required>
 
-  <label for="name">Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+  <label for="name">Name</label>
   <input type="text" id="name" name="name" required>
-  <label for="address">Delivery address:</label>
+  <label for="address">Delivery address</label>
   <textarea id="address" name="address" rows="5" cols="50" required>
   </textarea>
   <label for="quantitym">Amount of Mixed Seed (kg)</label>
@@ -139,10 +139,10 @@ id="fs-frm"
   <input type="number" id="quantityp" name="quantityp" min="1" max="10" step="0.5">
 
 
-  <label for="comments">Special comments: </label>
+  <label for="comments">Special comments </label>
   <textarea id="comments" name="comments" rows="5" cols="50"></textarea>
   <input type="submit" value="Order">
 
-  I will email back with details of payment and delivery(check your spam folder!)
+  I will email back with details of payment and delivery (check your spam folder! If I don't get a reply I'll come and deliver anyway.)
 
 </form>

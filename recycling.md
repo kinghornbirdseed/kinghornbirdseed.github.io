@@ -114,17 +114,17 @@ title: Recycling
 
 Please clean all bottles and jars before leaving for collection. Please put your recycling in 'bag for life' size carrier bags and leave on your doorstep at the collection time. You can leave your donation underneath the bag on collection day or if you prefer you can pay through an online payment link (Stripe). The suggested donation per bag is £2.50. Please enter how many bags you will leave out in the box provided below.
 
-<form id="fs-frm" name="recycling" action="https://formspree.io/f/{form_id}" method="post">
+<form id="fs-frm" name="recycling" action="https://formspree.io/f/mzbordvz" method="post">
 
-    <label for="Name">Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+    <label for="Name">Name</label>
 
   <input type="text" name="Name" id="Name" placeholder="Enter your name" required="">
-    <label for="Email">Email Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+    <label for="Email">Email Address</label>
     <input type="Email" name="_replyto" id="Email" placeholder="email@domain.tld" required>
     <label for="Address">Collection Address</label>
     <textarea rows="5" name="Address" id="Address" placeholder="" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Recycling Collection Form Submission">
-<label for="quantity">Number of Bags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+<label for="quantity">Number of Bags</label>
 <input type="number" id="quantity" name="quantity" min="1" max="200" value="1">
   <input type="submit" value="Submit Collection Request">
 </form>
