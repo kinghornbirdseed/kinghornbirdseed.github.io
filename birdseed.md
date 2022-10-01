@@ -143,6 +143,6 @@ id="fs-frm"
   <textarea id="comments" name="comments" rows="5" cols="50"></textarea>
   <input type="submit" value="Order">
 
-  I will email back with details of payment and delivery (check your spam folder! If I don't get a reply I'll come and deliver anyway.)
+  I will email back with details of paymen and delivery (check your spam folder! If I don't get a reply I'll come and deliver anyway.)
 
 </form>
