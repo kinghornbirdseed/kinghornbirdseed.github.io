@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kinghorn Scouts Fundraising
+title: Kinghorn Bird Seed
 email: sales@kinghornbirdseed.co.uk
-description: Information, fundraising and contact site for Scouts and Explorer Scouts from 6th Fife Scout Group travelling to the 25th World Scout Jamboree in South Korea 2023.
+description: Information, fundraising and contact site for some of the Kirkcaldy District Explorers travelling to the 25th World Scout Jamboree in South Korea 2023.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kinghornbirdseed.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: s0n0sus
 github_username:  kinghornbirdseed
 facebook_username: 6thfifeglassrecycling
 # Build settings
@@ -50,4 +49,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-google_analytics: UA-216926686-1
+
